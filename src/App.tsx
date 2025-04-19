@@ -29,13 +29,13 @@ function App() {
             <CarouselItem>
               <div className='flex aspect-square'>
               <a href="https://storyset.com/sport" className='hidden'>Sport illustrations by Storyset</a>
-                <img src={gymAmico} alt='' />
+                <img src={gymAmico} alt='Gym Amico Image' />
               </div>
             </CarouselItem>
             <CarouselItem>
               <div className='flex aspect-square'>
               <a href="https://storyset.com/sport" className='hidden'>Sport illustrations by Storyset</a>
-                <img src={gymBro} alt='' />
+                <img src={gymBro} alt='GymBro Image' />
               </div>
             </CarouselItem>
           </CarouselContent>
